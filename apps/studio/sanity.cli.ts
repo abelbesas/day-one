@@ -2,7 +2,7 @@ import {defineCliConfig} from 'sanity/cli'
 
 export default defineCliConfig({
   server: {
-    port: 3334,
+    port: 3333,
   },
   api: {
     projectId: '469a5hso',
